@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "name": "User One",
+  "address": {
+    "street": "Ha Matala",
+    "city": "Maseru",
+    "zipcode": 100
+  },
+  "phone number": 63608236
+
+}
